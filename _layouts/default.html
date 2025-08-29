@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+</head>
+<body>
+  <div class="header">
+    <h1 class="site-title">{{ site.title }}</h1>
+    <nav class="navigation">
+      <a href="{{ site.baseurl }}/">About</a>
+      <span class="separator">/</span>
+      <a href="{{ site.baseurl }}/teaching.html">Teaching</a>
+      <span class="separator">/</span>
+      <a href="{{ site.baseurl }}/writings.html">Writings</a>
+      <span class="separator">/</span>
+      <a href="{{ site.baseurl }}/misc.html">Misc</a>
+    </nav>
+  </div>
+
+  <div class="content">
+    {{ content }}
+  </div>
+</body>
+</html>
