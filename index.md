@@ -5,12 +5,10 @@ title: About
 
 # About Me
 
-Hi, I'm Emerson, a [your description - student/professional/etc] studying [your field] at [your institution]. In addition to [your main interest], I enjoy [your hobbies/interests].
+I'm a PhD student in mathematics at The University of Pennsylvannia. I'm primarily interested in algebraic geometery. 
 
-# Research Interest
-
-My current focus is [describe your research interests, academic focus, or professional interests]. I particularly like [specific areas] and am trying to learn more about [areas you're exploring].
+I was an undergraduate at The University of Maryland, where I majored in math and also [grew crystals][https://qmc.umd.edu]. 
 
 # Contact Me
 
-My email: [your-email]@[domain].com
+ehemley@sas.upenn.edu
