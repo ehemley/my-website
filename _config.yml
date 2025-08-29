@@ -1,7 +1,7 @@
-title: My GitHub Pages Site
-description: A great site powered by Jekyll and GitHub Pages
-baseurl: "/my-website"  # replace with your actual repo name
-url: "https://ehemley.github.io"  # replace with your GitHub username
+title: Emerson Hemley
+description: Personal academic website
+baseurl: "/my-website"
+url: "https://ehemley.github.io"
 
 # GitHub Pages settings
 markdown: kramdown
@@ -15,3 +15,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - .DS_Store

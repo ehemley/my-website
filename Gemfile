@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4"
-gem "webrick"
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.7"
