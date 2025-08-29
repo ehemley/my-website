@@ -1,3 +1,17 @@
 title: My GitHub Pages Site
-baseurl: "/website"  # change to your repo name
-url: "https://username.github.io"  # replace with your GitHub username
+description: A great site powered by Jekyll and GitHub Pages
+baseurl: "/my-website"  # replace with your actual repo name
+url: "https://ehemley.github.io"  # replace with your GitHub username
+
+# GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
